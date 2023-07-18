@@ -1,2 +1,2 @@
-# php-day103-2023
+# php-day10-2023
 Show data base
